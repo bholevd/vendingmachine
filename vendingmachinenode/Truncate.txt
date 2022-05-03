@@ -1,0 +1,10 @@
+DELETE FROM `symptomqueans`
+ALTER TABLE symptomqueans AUTO_INCREMENT = 1
+DELETE FROM `symptomreport`
+ALTER TABLE symptomreport AUTO_INCREMENT = 1
+DELETE FROM `notifications`
+ALTER TABLE notifications AUTO_INCREMENT = 1
+DELETE FROM `mycircle`
+ALTER TABLE mycircle AUTO_INCREMENT = 1
+DELETE FROM `users`
+ALTER TABLE users AUTO_INCREMENT = 1
